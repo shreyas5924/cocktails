@@ -43,3 +43,16 @@
 * Stir ingredients with ice.
 * Serve in rinsed glass with one large ice cube.
 * Garnish with large orange peel.
+
+### scofflaw
+* 1.5 oz rye whiskey
+* 1 oz dry vermouth
+* 0.75 oz fresh lemon juice
+* 0.25 oz grenadine
+* 2 dashes orange bitters
+---
+* Add all ingredients to a shaker with ice.
+* shake until chilled.
+* then double-strain into a chilled coupe glass.
+* Garnish with a lemon twist or cherry for elegance.
+
